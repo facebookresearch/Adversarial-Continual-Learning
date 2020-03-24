@@ -1,0 +1,47 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+#
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
+num_runs: 5
+experiment: "mnist5"
+data_dir: "../data"
+checkpoint: "./checkpoints/"
+output: ""
+tsne: "no"
+diff: "no"
+lam: 1        #diff loss lambda
+adv: 0.05     #adversarial loss regularizer
+orth: 0.1     #diff loss regularizer
+
+ntasks: 5
+use_memory: "no"
+samples: 0
+
+e_lr: 0.001
+e_wd: 0.01
+s_step: 20
+
+d_lr: 0.0001
+d_wd: 0.01
+d_step: 1
+
+lr_factor: 3
+lr_min: 1.0e-06
+lr_patience: 5
+mom: 0.9
+
+nlayers: 2
+units: 175
+head_units: 28
+latent_dim: 64
+
+batch_size: 32
+nepochs: 200
+pc_valid: 0.15
+
+workers: 4
+device: "cuda:7"
+
+
+
