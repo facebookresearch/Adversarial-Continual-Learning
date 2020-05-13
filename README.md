@@ -79,7 +79,7 @@ Sequence of 5 Tasks (CIFAR10, MNIST, notMNIST, Fashion MNIST, SVHN)
 
 #### Datasets
 
-*miniImageNet* data should be [downloaded](https://github.com/yaoyao-liu/mini-imagenet-tools#about-mini-ImageNet) and pickled as a dictionary with `images` and `labels` keys and placed in a sub-folder in `ags.data_dir` named as `miniimagenet`.
+*miniImageNet* data should be [downloaded](https://github.com/yaoyao-liu/mini-imagenet-tools#about-mini-ImageNet) and pickled as a dictionary (`data.pkl`) with `images` and `labels` keys and placed in a sub-folder in `ags.data_dir` named as `miniimagenet`. The script used to split `data.pkl` into training and test sets is included in data dorectory (`data/`)
 
 *notMNIST* dataset is included here in `./data/notMNIST` as it was used in our experiments. 
 

@@ -149,8 +149,7 @@ def main(args):
 
     accuracies, forgetting = [], []
     for n in range(args.num_runs):
-        # You can use whatever seed you want!
-        args.seed = 123
+        args.seed = n
         args.output = '{}_{}_tasks_seed_{}.txt'.format(args.experiment, args.ntasks, args.seed)
         print ("args.output: ", args.output)
 
