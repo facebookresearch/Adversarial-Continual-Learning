@@ -1,7 +1,7 @@
 # Adversarial Continual Learning 
 
 
-This is the official PyTorch implementation of the [Adversarial Continual Learning](https://arxiv.org/abs/2003.09553). 
+This is the official PyTorch implementation of the [Adversarial Continual Learning](https://arxiv.org/abs/2003.09553) at *ECCV 2020*. . 
 
 
 ## Abstract
