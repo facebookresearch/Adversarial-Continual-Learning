@@ -76,6 +76,8 @@ Sequence of 5 Tasks (CIFAR10, MNIST, notMNIST, Fashion MNIST, SVHN)
 
 `python main.py --config ./configs/config_multidatasets.yml`
 
+###### ACL with ResNet18 backbone
+See [here](https://github.com/facebookresearch/Adversarial-Continual-Learning/tree/master/ACL-resnet).
 
 #### Datasets
 
