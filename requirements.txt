@@ -103,7 +103,7 @@ torchvision==0.4.2
 tornado==6.0.3
 tqdm==4.40.1
 traitlets==4.3.2
-urllib3==1.25.8
+urllib3==1.26.5
 wandb==0.8.29
 watchdog==0.10.2
 wcwidth==0.1.7
