@@ -94,7 +94,7 @@ subprocess32==3.5.4
 tensorboard==1.14.0
 tensorboardX==1.6
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.5.3
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
