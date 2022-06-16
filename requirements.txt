@@ -51,7 +51,7 @@ more-itertools==8.0.2
 nbconvert==5.6.1
 nbformat==4.4.0
 networkx==2.4
-notebook==6.0.2
+notebook==6.4.12
 numpy==1.17.5
 nvidia-ml-py3==7.352.0
 olefile==0.46
