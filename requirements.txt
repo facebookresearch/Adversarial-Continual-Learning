@@ -46,7 +46,7 @@ Markdown==2.6.11
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.0.2
 nbconvert==5.6.1
 nbformat==4.4.0
