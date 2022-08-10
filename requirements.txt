@@ -48,7 +48,7 @@ matplotlib==3.1.2
 missingno==0.4.2
 mistune==0.8.4
 more-itertools==8.0.2
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbformat==4.4.0
 networkx==2.4
 notebook==6.0.2
