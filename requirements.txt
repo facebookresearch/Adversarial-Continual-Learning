@@ -79,7 +79,7 @@ pytz==2019.3
 PyWavelets==1.1.1
 PyYAML==5.2
 pyzmq==18.1.1
-requests==2.23.0
+requests==2.31.0
 scikit-image==0.16.2
 scikit-learn==0.22
 scipy==1.1.0
